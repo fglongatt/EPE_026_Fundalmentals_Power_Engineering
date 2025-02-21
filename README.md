@@ -38,3 +38,14 @@ To introduce students to the basic laws, theories and theorems concerning magnet
 
 - Unit 5: Two-winding power transformer
 
+## Files:
+- Unit 1. Introduction to Power Systems: https://www.researchgate.net/publication/337931908_Chapter_1_Introduction_to_Power_Systems
+
+- Unit 2. Fundamentals of AC Systems: https://www.researchgate.net/publication/389206970_Chapter_1_AC_Systems_v11_Fundamentals_of_Power_Engineering
+
+- Unit 3: Three-phase Systems: https://www.researchgate.net/publication/389206997_Chapter_2_Three-Phase_Systems_v10_Fundamentals_of_Power_Engineering
+
+- Unit 4. Fundamentals of Magnetic Circuits: https://www.researchgate.net/publication/389207026_Chapter_3_Magnetic_Circuit_V9_Fundamentals_Power_Engineering
+
+- Unit 5. Single Phase Two-Winding Power Transformer: https://www.researchgate.net/publication/389207239_Chapter_4_Single_Phase_Two_Winding_Power_Transformer_v10_Fundamentals_of_Power_Engineering
+
