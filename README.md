@@ -4,7 +4,7 @@ This is a very short and basic course dedicated to presenting a general introduc
 
 # Objective
 
-To introduce students to the basic laws, theories and theorems concerning magnetic fields arising from electrical circuits, three-phase electrical power circuits. and more advanced ac circuit analysis topics.
+To introduce students to the basic laws, theories and theorems concerning magnetic fields arising from electrical circuits, three-phase electrical power circuits and more advanced ac circuit analysis topics.
 
 
 ## Intended Learning Outcomes:
@@ -17,9 +17,9 @@ To introduce students to the basic laws, theories and theorems concerning magnet
 - Apply basic mathematical techniques used in Electrical Engineering at a level sufficient to analyse simple electrical and electromagnetic problems.
 
 3. Subject-Specific - Practical Skills
-- Set-up working AC circuits in the laboratory, take measurements and interpret them.
+- Set up working AC circuits in the laboratory, take measurements and interpret them.
 - Operate test and measurement equipment such as oscilloscopes and multimeters.
-- Makethe  order of magnitude estimates of key quantities occurring in practical electromagnetic problems.
+- Make the  order of magnitude estimates of key quantities occurring in practical electromagnetic problems.
 
 4. Key Transferable Skills
 - Record a lab log.
