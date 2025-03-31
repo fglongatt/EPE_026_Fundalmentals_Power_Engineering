@@ -8,4 +8,5 @@
 
 (b)  The magnitude of the load’s line and phase voltages VLL and VLN (as shown in Fig Q1)
 
+https://youtu.be/aWXrYd75-X4?feature=shared
 
